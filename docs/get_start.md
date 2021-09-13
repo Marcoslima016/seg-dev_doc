@@ -15,7 +15,7 @@ Dentro do VSCodel, abra o projeto onde você deseja utilizar a extensão. Depois
 <br/>
 
 Na janela que abriu, rode o comando: </br> </br> 
-`Seg Dev: Install extension`
+``Seg Dev: Install extension``
 
 Esse comando irá fazer as configurações necessárias para começar a utilizar a extensão Seg Dev. Alguns arquivos serão adicionados ao seu projeto. 
 
