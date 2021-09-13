@@ -9,8 +9,8 @@ Após instalar a extensão no VS Code, ela ainda não estará disponivel para to
 
 Dentro do VSCodel, abra o projeto onde você deseja utilizar a extensão. Depois, pressione as seguintes teclas para abrir a janela de comandos no VSCode:  
  <br/>
-<kbd>CMD</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>  &ensp; para **MacOS**  <br/><br/>
-<kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>  &ensp; para **Windows**
+<kbd>CMD</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>  &ensp;para **MacOS**  <br/><br/>
+<kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>  &ensp;para **Windows**
 
 <br/>
 
