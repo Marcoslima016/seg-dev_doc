@@ -16,6 +16,9 @@ extra_css:
 nav:
   - Introdução: intro.md
   - Get started: get_start.md
+  - Flutter tools: 
+    - Iniciar um projeto Flutter: flutter_tools/init_project.md
+    - Criar modulos: flutter_tools/criar_modulo.md
 
     
 
