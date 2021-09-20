@@ -16,11 +16,11 @@
 }
 .md-typeset h2 {
   /* font-weight: bold; */
-  font-weight: 400;
+  font-weight: 600;
 }
 .md-typeset h3 {
     font-weight: 600;
-    color:grey;
+    color:rgb(75, 75, 75);
   }
   .md-typeset h4 {
     font-weight: 600;
