@@ -15,10 +15,10 @@ Esse comando é responsável por configurar a estrutura básica de um aplicativo
 
 - São configuradas as dependencias geralmente utilizadas em qualquer projeto. O pubspec.yaml será alterado para acrescentar as dependencias. 
 - São configurados os assets e fonts personalizados. O pubspec.yaml será alterado para realizar essas configurações. 
-- É configurada a estrutura base do app, sendo criada a estrutura de pastas MVL, appController, main, etc. 
+- É configurada a estrutura base do app, sendo criada a estrutura de pastas MVC, appController, main, etc. 
 
 ## Etapas
-Esse comando irá iniciar o processo de criação da estrutura básica do Aplicativo, realizando os seguintes passos: 
+Ao rodar o comando será iniciado o processo de criação da estrutura básica do Aplicativo, realizando os seguintes passos: 
 
 ### 1. Selecionador a estrutura do Aplicativo. 
 
@@ -30,5 +30,10 @@ Estão disponiveis as seguintes opções de estrutura:
 **private-access:** Estrutura de um aplicativo que possui autenticação. Apenas o modulo de login/cadastro ficará disponivel ao usuário, sendo necessário realizar a autenticação para acessar os outros modulos.
 
 
+
+### 2. Configurar os metadados 
+
+
+### 3. Realizar as configurações de estilo do Aplicativo. 
 
 
