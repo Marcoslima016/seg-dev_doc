@@ -19,8 +19,8 @@ nav:
   - Flutter tools: 
     - Iniciar um projeto Flutter: flutter_tools/init_project.md
     - Criar modulos: flutter_tools/criar_modulo.md
-
-    
+  - Extension Develop: 
+    - Introdução: ext_dev/intro.md
 
 theme:
   name: null
