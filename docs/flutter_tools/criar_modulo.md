@@ -11,3 +11,8 @@ Para iniciar o processo de criação de um modulo, clique com o botão direito n
 
   ** 1. Escolher modelo do modulo ** </br> 
 Após rodar o comando do passo anterior, será aberta uma janela contendo as opções de modulos que podem ser usados. 
+
+  ** 1. Informar nome do modulo ** </br> 
+
+
+###  Modelos de modulos disponiveis
