@@ -21,6 +21,7 @@ nav:
     - Criar modulos: flutter_tools/criar_modulo.md
   - Extension Develop: 
     - Introdução: ext_dev/intro.md
+    - Gerar templates: ext_dev/gerar_templates.md
 
 theme:
   name: null
